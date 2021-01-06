@@ -9,5 +9,9 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  
+  "Image":{
+    "name": "string"
   }
 }
